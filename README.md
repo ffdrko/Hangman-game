@@ -1,0 +1,1 @@
+The Hangman game script randomly selects a word from a predefined list. The player guesses letters, and if the guessed letter is in the word, it is revealed. Otherwise, the player loses a life. The game continues until the player either guesses the entire word or runs out of lives. The hangman’s progress is displayed using ASCII art.
